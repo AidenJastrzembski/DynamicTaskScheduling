@@ -28,5 +28,4 @@ python main.py
 
 ## Run with the sample project
 
-python main.py --sample
---sample option runs the scheduler with the predefined sample project.
+python main.py --sample option runs the scheduler with the predefined sample project.
